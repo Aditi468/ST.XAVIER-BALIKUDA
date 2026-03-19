@@ -34,7 +34,7 @@ document.getElementById("footer").innerHTML = `
 
     <div class="footer-section">
       <h3>About School</h3>
-      <p>Deomali Public School provides quality education with modern facilities and values.</p>
+      <p>St.Xavier Public School provides quality education with modern facilities and values.</p>
     </div>
 
     <div class="footer-section">
