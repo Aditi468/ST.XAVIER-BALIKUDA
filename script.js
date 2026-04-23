@@ -11,7 +11,7 @@ document.getElementById("header").innerHTML = `
   <nav>
     <div class="logo-area">
       <img src="images/log.png" alt="logo">
-      <div class="logo-text">ST.Xavier,Balikuda</div>
+      <div class="logo-text">ST. XAVIER SCHOOL</div>
     </div>
 
     <ul>
@@ -34,6 +34,10 @@ document.getElementById("footer").innerHTML = `
 
     <div class="footer-section">
       <h3>About School</h3>
+       <div class="logo-area">
+      <img src="images/log.png" alt="logo">
+      <div class="logo-text">ST. XAVIER SCHOOL</div>
+    </div>
       <p>St.Xavier Public School provides quality education with modern facilities and values.</p>
     </div>
 
@@ -54,7 +58,9 @@ document.getElementById("footer").innerHTML = `
 
     <div class="footer-section">
       <h3>Address</h3>
-      <p>Balikuda, Odisha</p>
+      <p>BALIKUDA,JAGATSINGHAPUR,ODISHA,754108
+
+</p>
     </div>
 
   </div>
