@@ -32,7 +32,7 @@ document.getElementById("footer").innerHTML = `
 
   <div class="footer-top">
 
-    <div class="footer-section">
+    <div class="footer-section"> 
     <div class="logo-area">
       <img src="images/log.png" alt="logo">
       <h3>ST. XAVIER SCHOOL</h3>
